@@ -6,7 +6,7 @@
 /*   By: asaenko <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/09 17:02:41 by asaenko           #+#    #+#             */
-/*   Updated: 2023/12/09 17:04:55 by asaenko          ###   ########.fr       */
+/*   Updated: 2023/12/13 16:45:27 by asaenko          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,6 @@ typedef struct s_point
 {
 	int	x;
 	int	y;
-}	t_point
+}	t_point;
 
 #endif
